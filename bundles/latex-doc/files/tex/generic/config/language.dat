@@ -1,0 +1,48 @@
+english hyphen.tex % do not change!
+=usenglish
+=USenglish
+=american
+basque loadhyph-eu.tex
+catalan loadhyph-ca.tex
+croatian loadhyph-hr.tex
+czech loadhyph-cs.tex
+danish loadhyph-da.tex
+dutch loadhyph-nl.tex
+ukenglish loadhyph-en-gb.tex
+=british
+=UKenglish
+estonian loadhyph-et.tex
+finnish loadhyph-fi.tex
+french loadhyph-fr.tex
+=patois
+=francais
+galician loadhyph-gl.tex
+ngerman loadhyph-de-1996.tex
+greek loadhyph-el-polyton.tex
+=polygreek
+monogreek loadhyph-el-monoton.tex
+hungarian loadhyph-hu.tex
+icelandic loadhyph-is.tex
+irish loadhyph-ga.tex
+italian loadhyph-it.tex
+latin loadhyph-la.tex
+latvian loadhyph-lv.tex
+lithuanian loadhyph-lt.tex
+bokmal loadhyph-nb.tex
+=norwegian
+=norsk
+nynorsk loadhyph-nn.tex
+polish loadhyph-pl.tex
+portuguese loadhyph-pt.tex
+=portuges
+romanian loadhyph-ro.tex
+russian loadhyph-ru.tex
+slovak loadhyph-sk.tex
+slovenian loadhyph-sl.tex
+=slovene
+spanish loadhyph-es.tex
+=espanol
+swedish loadhyph-sv.tex
+turkish loadhyph-tr.tex
+ukrainian loadhyph-uk.tex
+welsh loadhyph-cy.tex
