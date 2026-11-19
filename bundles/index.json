@@ -19,7 +19,7 @@
     {
       "name": "core",
       "files": 101,
-      "bytes": 1325661
+      "bytes": 1328589
     },
     {
       "name": "ps-fonts",
@@ -73,8 +73,8 @@
     },
     {
       "name": "latex-extra",
-      "files": 935,
-      "bytes": 12628683
+      "files": 960,
+      "bytes": 13114563
     }
   ]
 }

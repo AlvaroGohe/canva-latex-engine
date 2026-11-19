@@ -1147,3 +1147,15 @@ URWClassico-Regular-lf-ts1--base URWClassico-Regular "AutoEnc_3ztvsyrhyragavpk6t
 
 uopr8r URWClassico-Reg <8r.enc <uopr8a.pfb " TeXBase1Encoding ReEncodeFont "
 uopb8r URWClassico-Bol <8r.enc <uopb8a.pfb " TeXBase1Encoding ReEncodeFont "
+cmssmi10 ComputerModernSans-MathitalicRegular10pt <cmssmi10.pfb
+cmssmi5 ComputerModernSans-MathitalicRegular5pt <cmssmi5.pfb
+cmssmi6 ComputerModernSans-MathitalicRegular6pt <cmssmi6.pfb
+cmssmi7 ComputerModernSans-MathitalicRegular7pt <cmssmi7.pfb
+cmssmi8 ComputerModernSans-MathitalicRegular8pt <cmssmi8.pfb
+cmssmi9 ComputerModernSans-MathitalicRegular9pt <cmssmi9.pfb
+cmssmib10 ComputerModernSans-MathitalicBold10pt <cmssmib10.pfb
+cmssmib5 ComputerModernSans-MathitalicBold5pt <cmssmib5.pfb
+cmssmib6 ComputerModernSans-MathitalicBold6pt <cmssmib6.pfb
+cmssmib7 ComputerModernSans-MathitalicBold7pt <cmssmib7.pfb
+cmssmib8 ComputerModernSans-MathitalicBold8pt <cmssmib8.pfb
+cmssmib9 ComputerModernSans-MathitalicBold9pt <cmssmib9.pfb
